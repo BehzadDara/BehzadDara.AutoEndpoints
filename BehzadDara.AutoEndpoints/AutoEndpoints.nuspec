@@ -8,5 +8,9 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A library for making endpoint very easy and quick.</description>
     <tags>Http auto endpoints</tags>
+	  <repository>
+		  <url>https://github.com/BehzadDara/BehzadDara.AutoEndpoints</url>
+		  <type>git</type>
+	  </repository>
   </metadata>
 </package>
