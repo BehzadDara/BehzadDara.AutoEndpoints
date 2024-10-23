@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>BehzadDara.AutoEndpoints</id>
+    <version>1.0.0</version>
+    <authors>Behzad Dara</authors>
+    <owners>Behzad Dara</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for making endpoint very easy and quick.</description>
+    <tags>Http auto endpoints</tags>
+  </metadata>
+</package>
